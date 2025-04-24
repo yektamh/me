@@ -1,0 +1,8 @@
+falsk
+flask-cors
+openai
+gtts
+torch
+torchaudio
+soundfile
+whisper
